@@ -26,6 +26,5 @@ Here are some ideas to get you started:
 🌱 I have a little over a year of professional data engineering experience with a record of quickly learning and developing solutions.
 
 ---
+#### Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidJS01&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Notable Projects](https://github-readme-stats.vercel.app/api/pin/?username=DavidJS01&repo=goTwitch-Analytics&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
