@@ -26,5 +26,12 @@ Here are some ideas to get you started:
 🌱 I have a little over a year of professional data engineering experience with a record of quickly learning and developing solutions.
 
 ---
-#### Github Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidJS01&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+### Notable Projects
+
+<p style="text-align: center;"> <strong> Go-Twitch-Analytics</strong></p>
+
+[Go-Twitch Analytics](https://gitfront.io/r/David-Shipman/PpqVUM9GjvYW/goTwitch-Analytics/) is an event-based, streaming analytics solution to subscribe to and aggregate chat data from a list of your favorite Twitch.tv livestreams, visualized in near real time. Built with Go, Postgres, Docker, RabbitMQ, and Apache Superset.
+
+![](assets/example_dashboard.png)
+<p align="center">Example Dashboard</p>
