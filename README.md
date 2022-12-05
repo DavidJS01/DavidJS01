@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 #### About me
 💬 This Github profile is a collection of projects developed as I continuously learn towards achieving that goal.
 
-💻 I have professional experience with Python, Go, SQL (snowflake), Airflow, and more. You can view my full resume here: [resume](resume/David_Shipman_Resume_Updated_11_19_2022.pdf)
+💻 I have professional experience with Python, Go, SQL (snowflake), Airflow, and more. You can view my full resume here: [resume](resume/David_Shipman_Resume_12-5-2022.pdf)
 
 🌱 I have a little over a year of professional data engineering experience with a record of quickly learning and developing solutions.
 
