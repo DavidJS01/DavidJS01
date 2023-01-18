@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <p style="text-align: center;"> <strong> Go-Twitch-Analytics</strong></p>
 
-[Go-Twitch Analytics](https://gitfront.io/r/David-Shipman/PpqVUM9GjvYW/goTwitch-Analytics/) is an event-based, streaming analytics solution to subscribe to and aggregate chat data from a list of your favorite Twitch.tv livestreams, visualized in near real time. Built with Go, Postgres, Docker, RabbitMQ, and Apache Superset.
+[Go-Twitch Analytics](https://github.com/DavidJS01/goTwitch-Analytics) is an event-based, streaming analytics solution to subscribe to and aggregate chat data from a list of your favorite Twitch.tv livestreams, visualized in near real time. Built with Go, Postgres, Docker, RabbitMQ, and Apache Superset.
 
 ![](assets/example_dashboard.png)
 <p align="center">Example Dashboard</p>
