@@ -33,7 +33,8 @@ I've worked at a variety of startups as a data engineer, including
 
 <p style="text-align: center;"> <strong> ChemDev.me (Personal Blog)</strong></p>
 Through the good, bad, and difficult times, I document my experience learning and improving as an engineer at <a href="https://chemdev.me" chemdev.me> chemdev.me</a>
-<br>
+
+
 <p style="text-align: center;"> <strong> Go-Twitch-Analytics</strong></p>
 
 [Go-Twitch Analytics](https://github.com/DavidJS01/goTwitch-Analytics) is an event-based, streaming analytics solution to subscribe to and aggregate chat data from a list of your favorite Twitch.tv livestreams, visualized in near real time. Built with Go, Postgres, Docker, RabbitMQ, and Apache Superset.
