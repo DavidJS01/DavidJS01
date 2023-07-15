@@ -31,13 +31,16 @@ I've worked at a variety of startups as a data engineer, including
 
 ### Notable Projects
 
-<p style="text-align: center;"> <strong> ChemDev.me (Personal Blog)</strong></p>
-Through the good, bad, and difficult times, I document my experience learning and improving as an engineer at <a href="https://chemdev.me" chemdev.me> chemdev.me</a>
+#### chemdev.me (Personal Blog)
+
+<a href="https://chemdev.me"> chemdev.me </a>
+Through the good, bad, and difficult times, I document my experience learning and improving as an engineer.
 
 
-<p style="text-align: center;"> <strong> Go-Twitch-Analytics</strong></p>
+#### Go-Twitch Analytics
+[Go-Twitch Analytics](https://github.com/DavidJS01/goTwitch-Analytics)
 
-[Go-Twitch Analytics](https://github.com/DavidJS01/goTwitch-Analytics) is an event-based, streaming analytics solution to subscribe to and aggregate chat data from a list of your favorite Twitch.tv livestreams, visualized in near real time. Built with Go, Postgres, Docker, RabbitMQ, and Apache Superset.
+An event-based, streaming analytics solution to subscribe to and aggregate chat data from a list of your favorite Twitch.tv livestreams, visualized in near real time. Built with Go, Postgres, Docker, RabbitMQ, and Apache Superset.
 
 ![](assets/example_dashboard.png)
 <p align="center">Example Dashboard</p>
