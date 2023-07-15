@@ -23,9 +23,9 @@ Here are some ideas to get you started:
 I have professional experience with Python, SQL, Snowflake, AWS/GCP, and Go.
 
 I've worked at a variety of startups as a data engineer, including
-- [Atlas Health](atlas.health)
-- [Clearcover](clearcover.com)
-- [Arivo Acceptance](arivo.com)
+- [Atlas Health](https://atlas.health)
+- [Clearcover](https://clearcover.com)
+- [Arivo Acceptance](https://arivo.com)
 
 ---
 
