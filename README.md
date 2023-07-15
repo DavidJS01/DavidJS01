@@ -1,7 +1,8 @@
 
 
-### Hi there 👋!
-🔭 I'm David, a data engineer working towards being able to architect and build highly-scalable, robust, and maintainable systems.
+### Hi!
+
+I'm David, a software engineer with an interest in data intensive systems.
 
 <!--
 **DavidJS01/DavidJS01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,11 +20,12 @@ Here are some ideas to get you started:
 -->
 ---
 #### About me
-💬 This Github profile is a collection of projects developed as I continuously learn towards achieving that goal.
+I have professional experience with Python, SQL, Snowflake, AWS/GCP, and Go.
 
-💻 I have professional experience with Python, Go, SQL (snowflake), Airflow, and more. You can view my full resume here: [resume](resume/resume.pdf)
-
-🌱 I have a little over a year of professional data engineering experience with a record of quickly learning and developing solutions.
+I've worked at a variety of startups as a data engineer, including
+- Atlas Health
+- Clearcover
+- Arivo Acceptance
 
 ---
 
