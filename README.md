@@ -34,6 +34,7 @@ I've worked at a variety of startups as a data engineer, including
 #### chemdev.me (Personal Blog)
 
 <a href="https://chemdev.me"> chemdev.me </a>
+
 Through the good, bad, and difficult times, I document my experience learning and improving as an engineer.
 
 
