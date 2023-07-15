@@ -35,3 +35,5 @@ Here are some ideas to get you started:
 
 ![](assets/example_dashboard.png)
 <p align="center">Example Dashboard</p>
+
+![](https://api.roadmap.sh/v1-badge/wide/649d80f5d99c9d67319fbe3f?variant=dark)
