@@ -31,8 +31,8 @@ I've worked at a variety of startups as a data engineer, including
 
 ### Notable Projects
 
-<p style="text-align: center;"> <strong> chemdev.me (personal blog)</strong></p>
-Through the good, bad, and difficult times, I document my experience learning and improving as an engineer at <a href="https://chemdev.me" chemdev.me>
+<p style="text-align: center;"> <strong> ChemDev.me (Personal Blog)</strong></p>
+Through the good, bad, and difficult times, I document my experience learning and improving as an engineer at <a href="https://chemdev.me" chemdev.me> chemdev.me</a>
 
 <p style="text-align: center;"> <strong> Go-Twitch-Analytics</strong></p>
 
