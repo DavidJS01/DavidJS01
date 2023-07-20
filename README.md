@@ -27,16 +27,13 @@ I've worked at a variety of startups as a data engineer, including
 - [Clearcover](https://clearcover.com)
 - [Arivo Acceptance](https://arivo.com)
 
+I believe that everyone, with just a little guidance or help, can grow and achieve incredible things.
+
+I maintain a blog regarding my thoughts and experiences in tech and life here: <a href="https://chemdev.me"> chemdev.me </a>
+
 ---
 
 ### Notable Projects
-
-#### chemdev.me (Personal Blog)
-
-<a href="https://chemdev.me"> chemdev.me </a>
-
-Through the good, bad, and difficult times, I document my experience learning and improving as an engineer.
-
 
 #### Go-Twitch Analytics
 [Go-Twitch Analytics](https://github.com/DavidJS01/goTwitch-Analytics)
