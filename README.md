@@ -1,8 +1,8 @@
 
 
-### Hi there!
+### Hey!
 
-I'm David, a software engineer with an interest in data intensive systems.
+I'm David, a software engineer with an interest in data intensive systems and offensive security development.
 
 <!--
 **DavidJS01/DavidJS01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -29,7 +29,7 @@ I've worked at a variety of startups as a data engineer, including
 
 I believe that everyone, with just a little guidance or help, can grow and achieve incredible things.
 
-I maintain a blog regarding my thoughts and experiences in tech and life here: <a href="https://chemdev.me"> chemdev.me </a>
+I maintain a blog regarding mainly my thoughts in tech here: <a href="https://chemdev.me"> chemdev.me </a>
 
 ---
 
@@ -42,8 +42,4 @@ An event-based, streaming analytics solution to subscribe to and aggregate chat 
 
 ![](assets/example_dashboard.png)
 <p align="center">Example Dashboard</p>
-
----
-### roadmap.sh
-![](https://api.roadmap.sh/v1-badge/wide/649d80f5d99c9d67319fbe3f?variant=dark)
 
