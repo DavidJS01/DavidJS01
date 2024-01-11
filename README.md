@@ -28,9 +28,6 @@ I've worked at a variety of startups as a data engineer, including
 - [Arivo Acceptance](https://arivo.com)
 
 I believe that everyone, with just a little guidance or help, can grow and achieve incredible things.
-
-I maintain a blog regarding mainly my thoughts in tech here: <a href="https://chemdev.me"> chemdev.me </a>
-
 ---
 
 ### Notable Projects
